@@ -264,3 +264,5 @@ B->>A: Great!
 **在线编辑**
 - Dillinger.io
 - Markable.in
+
+[test]({{/mdLink}}/test.md)
