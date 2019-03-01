@@ -265,4 +265,4 @@ B->>A: Great!
 - Dillinger.io
 - Markable.in
 
-[test]({{/mdLink}}/test.md)
+[test](https://github.com/zhaoliangwan/Test/blob/master/mdLink/test.md)
